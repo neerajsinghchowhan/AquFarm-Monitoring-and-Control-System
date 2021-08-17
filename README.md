@@ -21,3 +21,4 @@ IoT Kit for montoring(Esp32, Sensors,Breadboard,Wires).
 5.Compile the code and upload it to the esp32.
 6.Create a server and then upload the HTML,PHP files to server.
 7.Now run the esp32.
+8.Visit the website index page to check values that are updates from esp32 sensors.https://aquasystem.000webhostapp.com/
